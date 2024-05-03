@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HarnessInformation>
+  <Harness>
+    <P Name="Name">dvig_harness</P>
+    <P Name="Description"/>
+    <P Name="CreatedBy">diontep</P>
+    <P Name="CreatedOn">Fri May 03 16:36:55 2024</P>
+    <P Name="ModifiedBy">diontep</P>
+    <P Name="LastSaved">Fri May 03 16:53:58 2024</P>
+    <P Name="Owner">41</P>
+    <P Name="OwnerType">SS_HARNESS</P>
+    <P Name="OwnerPath">Dvigatel s controllerom</P>
+    <P Name="Directory"/>
+    <P Name="FileName">dvig_harness.slx</P>
+    <P Name="SavedVersion">10.7</P>
+    <P Name="HarnessUUID">f1b3692a-24a2-48c1-97db-063056a9790d</P>
+    <P Name="HarnessConnectionsMap">0|0,1,2|0,0,0,0||</P>
+    <P Name="VerificationMode">0</P>
+    <P Name="HarnessOwnerCheckSum">0,0,0,0</P>
+    <P Name="RebuildOnOpen">false</P>
+    <P Name="RebuildModelData">false</P>
+    <P Name="Graphical">false</P>
+    <P Name="DriveFcnCallWithTS">true</P>
+    <P Name="ScheduleInitTermReset">false</P>
+    <P Name="AutoShapeInputs">false</P>
+    <P Name="SLDVCompatible">no</P>
+    <P Name="SynchronizationMode">0</P>
+    <P Name="IsImported">false</P>
+    <P Name="PostRebuildCB"/>
+    <P Name="IsCodeContext">false</P>
+    <P Name="SchedulerBlock">1</P>
+    <P Name="SourceTypeString">Signal Editor</P>
+    <P Name="SinkTypeString">Terminator</P>
+    <P Name="CustomSourcePath"/>
+    <P Name="CustomSinkPath"/>
+    <P Name="BlockSIDs">6|13|0|0|0|0|0</P>
+    <P Name="OpenGraphs">||dvig_harness</P>
+    <P Name="ExistingBuildFolder"/>
+    <P Name="FunctionInterfaceName"/>
+  </Harness>
+  <ModelMetadata>
+    <P Name="ModelUUID">b117ac99-a0c7-450d-ad74-2d4de4c1ae9c</P>
+    <P Name="OwnerBDName">final</P>
+  </ModelMetadata>
+</HarnessInformation>
