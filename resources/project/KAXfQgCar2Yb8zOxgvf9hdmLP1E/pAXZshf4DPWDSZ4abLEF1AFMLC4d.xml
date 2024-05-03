@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="Shutdown" Visible="0" Icon="" File="scripts/clearworkspace.m" Name="clearworkspace">
+    <Extension Value="b18940a9-9e36-4b02-ae81-d550e853cbdd" Name="ShutdownPrev"/>
+</Info>
